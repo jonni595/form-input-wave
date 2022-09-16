@@ -1,2 +1,2 @@
 # form-input-wave
-Input con movimiento en ola
+Input con movimiento de ola
